@@ -1,0 +1,14 @@
+{
+  "name": "RadRecall - 放射線科専門医試験",
+  "short_name": "RadRecall",
+  "description": "森田先生専用の放射線科専門医試験学習アプリ",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f7f9",
+  "theme_color": "#0b315e",
+  "icons": [
+    {"src":"icons/icon-192.png","sizes":"192x192","type":"image/png"},
+    {"src":"icons/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}
